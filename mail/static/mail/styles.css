@@ -1,0 +1,35 @@
+textarea {
+    min-height: 400px;
+}
+
+.div_id {
+    height: 0;
+    width: 20%;
+    padding-bottom: 20%;
+    background-color: red
+}
+
+.back_color {
+    /*background: linear-gradient(#ffafbd, #ffc3a0);*/
+background: linear-gradient(to top, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);not(. container)
+
+
+}
+
+.white_ {
+    background-color: white;
+    /*background: linear-gradient(45deg, #a8edea, #fed6e3);*/
+    /*background-color: #1a0921;*/
+    /*background: linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);*/
+
+}
+
+.rainbow {
+    background: -webkit-linear-gradient(45deg, red, orange, yellow, green, blue, indigo, violet, red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.distinct_email{
+    background: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%);
+}
